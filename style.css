@@ -9,4 +9,5 @@ h1 {
 
 p {
   font-size: 18px;
+  max-width: 480px;
 }
